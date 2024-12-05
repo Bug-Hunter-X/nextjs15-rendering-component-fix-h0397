@@ -1,0 +1,1 @@
+This repository demonstrates a strange rendering issue in Next.js 15 where a simple component fails to render. The issue seems to be related to how the component is defined or imported. The solution provides a corrected version of the component that renders as expected.
